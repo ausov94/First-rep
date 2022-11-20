@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+       
+        *{
+              background-image:url("fon1.PNG");
+              background-size:cover;
+              background-attachment:fixed;
+        }
+        
+        .eka{
+            color:gold;
+            display:inline-block;
+            background:black;
+            }
+        #ek{
+            font-size:20px;
+            display:inline-block;
+            background:black;
+        }
+        #ek1{
+            font-size:20px;
+            display:inline-block;
+            background:black;
+        }
+        #ek2{
+            font-size:20px;
+            display:inline-block;
+            background:black;
+        }
+        #ek3{
+            font-size:20px;
+            display:inline-block;
+            background:black;
+        
+        }
+        #ek6{
+            font-size:20px;
+            display:inline-block;
+            background:black;
+        }
+        
+        p {
+            text-align:center; 
+            display: inline-block;
+            color:gold;
+            font-weight:800;
+            font-family:Nunito;
+            }
+            
+        #propusk{height:20px;}
+        
+        .fat{
+            position:fixed;
+            width:77%;
+            height:35px;
+            bottom:720px;
+            padding:5% 10%;
+            border: 20px solid #5FD4B1;
+            background:#4F10AD;
+            
+        }
+        
+        .mat{padding:10% 20%;
+            border: 200px solid #35D4A4;
+            background:black;
+        }
+        
+        .nat{padding:10% 20%;
+            border: 200px solid #00A876;
+            background:black;
+        }
+        
+        .navod{padding:10% 20%;
+            border: 200px solid #1b764F;
+            background:black;
+        }
+        
+        .vat{padding:10% 20%;
+            border: 200px solid #00665E;
+            background:black;
+            
+        }
+        
+        .cat{padding:10% 20%;
+            border: 200px solid #1D766F;
+            background:black;
+        }
+        
+        .xat{padding:10% 20%;
+            border: 200px solid #009D91;
+            background:black;
+        }
+        
+        .zat{padding:10% 20%;
+            border: 200px solid #5DCEC6;
+            background:black;
+        }
+        
+        .lat{padding:10% 20%;
+            border: 200px solid #5DCEC6;
+            background:black;
+        }
+        
+        .tat{padding:10% 20%;
+            border: 200px solid #5DCEC6;
+            background:black;
+        }
+        
+        .first{background:#4F10AD;
+            font-size:20px;
+        }
+        .nitro{background:#4F10AD;}
+        
+        .navod1{font-size:20px;
+            display:inline-block;
+            
+        }
+        
+        
+        .propusk2{
+            height:100px;
+        }
+        
+        .propusk3{
+            height:100px;
+        }
+        
+        .propusk4{
+            height:100px;
+        }
+        
+        .propusk5{
+            height:100px;
+        }
+        
+        .propusk6{
+            height:100px;
+        }
+        
+        .propusk7{
+            height:100px;
+        }
+        
+        .propusk8{
+            height:100px;
+        }
+        
+        .bl{background:black;
+            color:white;
+        }
+        .bl1{background:black;
+        }
+        .fon{background:black;
+        }
+        .fon1{background:black;
+        }
+        .fon2{background:black;
+        }
+        .fon3{background:black;
+        }
+        .fon4{background:black;
+        }
+        .fon5{background:black;
+        }
+        .zvet{
+            background:black;
+            color:white;
+        }
+        .zvet1{
+            background:black;
+            color:white;
+        }
+        .zvet2{
+            background:black;
+            color:white;
+        }
+        .zvet3{
+            background:black;
+            color:white;
+        }
+        .zvet4{
+            background:black;
+            color:white;
+        }
+        .zvet5{
+            background:black;
+            color:white;
+        }
+        .top{
+            color:black;
+            top:100px;
+            right:1000px;
+            font-size:15px;
+            position:fixed;
+            z-index:1;
+            
+        }
+        header{
+            height: 72px;
+            display: flex;
+            aling-items: center;
+            padding: 0 20%;
+            justify-content: space-between;
+            background-color: red;
+        }
